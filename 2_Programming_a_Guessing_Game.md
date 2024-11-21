@@ -128,3 +128,4 @@ let mut bananas = 5 // 可变的
 
 完整的说，`let mut guess = String::new();`创建了一个可变的变量并且绑定了一个新的，空的`String`实例。呜呼！
 
+### 接收用户输入
