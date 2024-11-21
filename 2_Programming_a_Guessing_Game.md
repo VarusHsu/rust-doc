@@ -93,8 +93,8 @@ fn main {
 正如你在第一章节中学到的`println!`是一个打印字符串到控制台上的宏：
 
 ```rust
-println!("Guess the number!")
-println!("Please iinput your guess.")
+println!("Guess the number!");
+println!("Please iinput your guess.");
 ```
 
 这些代码打印了游戏提示说明并且请求用户输入。
@@ -117,7 +117,7 @@ let apples = 5;
 
 ```rust
 let apples = 5; // 不可变的
-let mut bananas = 5 // 可变的
+let mut bananas = 5; // 可变的
 ```
 
 > [!note]
